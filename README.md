@@ -4,8 +4,8 @@
 合并文件仅因个人习惯，为方便阅读学习。
 
 本 repo 中基于 2024.8.18 Fork 原始repo中所包含的 分章节 PDF 合并而来。即：
-  [Book1_Python-For-Beginners - 编程不难] (https://github.com/dong-df/Visualize-ML-Book1_Python-For-Beginners)  
-  [Book2_Beauty-of-Data-Visualization - 可视之美] (https://github.com/dong-df/Visualize-ML-Book2_Beauty-of-Data-Visualization)
+  [Book1_Python-For-Beginners - 编程不难](https://github.com/dong-df/Visualize-ML-Book1_Python-For-Beginners)  
+  [Book2_Beauty-of-Data-Visualization - 可视之美](https://github.com/dong-df/Visualize-ML-Book2_Beauty-of-Data-Visualization)
   [Book3_Elements-of-Mathematics - 数学要素] (https://github.com/dong-df/Visualize-ML-Book3_Elements-of-Mathematics)
   [Book4_Power-of-Matrix - 矩阵力量] (https://github.com/dong-df/Visualize-ML-Book4_Power-of-Matrix)
   [Book5_Essentials-of-Probability-and-Statistics - 统计至简] (https://github.com/dong-df/Visualize-ML-Book5_Essentials-of-Probability-and-Statistics)
